@@ -8,7 +8,7 @@
 
 ## 1. Účel
 
-Tato směrnice stanovuje pravidla pro vytváření, správu, schvalování a uchovávání dokumentů souvisejících s řízením kvality (ISO 9001) a bezpečností informací (ISO 27001) v organizaci eKultura, z. s.
+Tato směrnice stanovuje pravidla pro vytváření, správu, schvalování a uchovávání dokumentů souvisejících s řízením kvality (ISO 9001) a bezpečností informací (ISO 27001) v organizaci **[eKultura, z. s.](https://ekultura.eu)**, z. s.
 
 ---
 
