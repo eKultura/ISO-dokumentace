@@ -10,10 +10,10 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 | Seznam projektů a služeb | ✅ |  | Přehled činností | ➖ |
 | Analýza rizik ISMS |  | ✅ | Riziková analýza (**interní**) | ✅ |
 | Plán ošetření rizik (Risk Treatment Plan) |  | ✅ | Plán opatření (**interní**)| ✅ |
-| Směrnice řízení přístupů |  | ✅ | Směrnice | ✅ |
+|[Směrnice řízení přístupů](smernice/smernice-rizeni-pristupu.md) |  | ✅ | Směrnice | ✅ |
 | Záznamy o zálohách |  | ✅ | Záznam (**interní**) | ➖ |
 | Záznamy o incidentech |  | ✅ | Záznam (**interní**) | ✅ |
-| Plán kontinuity provozu (BCP) |  | ✅ | Plán | ✅ |
+| [Plán kontinuity provozu (BCP)](plany/plan-kontinuity-provozu-bcp.md) |  | ✅ | Plán | ✅ |
 | Plán obnovy po havárii (DRP) |  | ✅ | Plán | ➖ |
 | Interní audit – plán a šablona | ✅ | ✅ | Auditní dokumentace | ✅ |
 | Interní audit – výsledky | ✅ | ✅ | Záznam (**interní**) | ✅ |
