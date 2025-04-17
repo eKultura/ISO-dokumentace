@@ -17,9 +17,9 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 | Plán obnovy po havárii (DRP) |  | ✅ | Plán | ➖ |
 | Interní audit – plán a šablona | ✅ | ✅ | Auditní dokumentace | ✅ |
 | Interní audit – výsledky | ✅ | ✅ | Záznam (**interní**) | ✅ |
-| Směrnice řízení dokumentace | ✅ | ✅ | Směrnice | ✅ |
+| [Směrnice řízení dokumentace](smernice/smernice-rizeni-dokumentace.md) | ✅ | ✅ | Směrnice | ✅ |
 | Zpětná vazba a vyhodnocení | ✅ |  | Záznam | ➖ |
 | Cíle kvality a bezpečnosti | ✅ | ✅ | Cíle a metriky | ✅ |
 | Záznamy o školení | ✅ | ✅ | Záznam (**interní**) | ✅ |
-| Seznam aktiv |  | ✅ | Přehled | ✅ |
-| Prohlášení o aplikovatelnosti (SoA) |  | ✅ | Souhrn opatření (**interní**) | ✅ |
+| [Seznam aktiv](seznam-aktiv.md) |  | ✅ | Přehled | ✅ |
+| [Prohlášení o aplikovatelnosti (SoA)](prohlaseni-o-aplikovatelnosti-soa.md) |  | ✅ | Souhrn opatření (**interní**) | ✅ |
