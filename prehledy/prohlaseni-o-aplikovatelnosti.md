@@ -1,5 +1,3 @@
-# prehledy/prohlaseni-o-aplikovatelnosti-soa.md
-
 # Prohlášení o aplikovatelnosti (Statement of Applicability – SoA)
 
 **Organizace:** eKultura, z. s.  
