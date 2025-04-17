@@ -10,7 +10,7 @@
 
 Toto prohlášení stanovuje přehled všech kontrolních opatření (controls) ze standardu ISO/IEC 27001:2022, příloha A, a uvádí, zda jsou pro eKultura, z. s. aplikovatelná, zavedena a jak jsou implementována.
 
-🔒 *Tento dokument slouží jako interní dokument ISMS a není určen pro veřejné šíření.*
+🔒 *Dokument soa-ekultura.xlsx slouží jako interní dokument ISMS a není určen pro veřejné šíření.*
 
 ---
 
