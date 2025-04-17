@@ -4,16 +4,16 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 
 | Název dokumentu | ISO 9001 | ISO 27001 | Typ dokumentu | Povinný |
 |----------------|----------|------------|----------------|----------|
-| [Politika kvality](politika/politika-kvality.md) [(EN)](politika/en/quality-policy.md) | ✅ |  | Politika | ✅ |
-| [Politika bezpečnosti informací](politika/politika-bezpecnosti-informaci.md) [(EN)](politika/en/information-security-policy.md) |  | ✅ | Politika | ✅ |
+| [Politika kvality](/politika/politika-kvality.md) [(EN)](politika/en/quality-policy.md) | ✅ |  | Politika | ✅ |
+| [Politika bezpečnosti informací](/politika/politika-bezpecnosti-informaci.md) [(EN)](/politika/en/information-security-policy.md) |  | ✅ | Politika | ✅ |
 | Organizační struktura eKultura | ✅ | ✅ | Popis rolí | ✅ |
 | Seznam projektů a služeb | ✅ |  | Přehled činností | ➖ |
 | Analýza rizik ISMS |  | ✅ | Riziková analýza (**interní**) | ✅ |
 | Plán ošetření rizik (Risk Treatment Plan) |  | ✅ | Plán opatření (**interní**)| ✅ |
-|[Směrnice řízení přístupů](smernice/smernice-rizeni-pristupu.md) |  | ✅ | Směrnice | ✅ |
+|[Směrnice řízení přístupů](/smernice/smernice-rizeni-pristupu.md) |  | ✅ | Směrnice | ✅ |
 | Záznamy o zálohách |  | ✅ | Záznam (**interní**) | ➖ |
 | Záznamy o incidentech |  | ✅ | Záznam (**interní**) | ✅ |
-| [Plán kontinuity provozu (BCP)](plany/plan-kontinuity-provozu-bcp.md) |  | ✅ | Plán | ✅ |
+| [Plán kontinuity provozu (BCP)](/plany/plan-kontinuity-provozu-bcp.md) |  | ✅ | Plán | ✅ |
 | Plán obnovy po havárii (DRP) |  | ✅ | Plán | ➖ |
 | Interní audit – plán a šablona | ✅ | ✅ | Auditní dokumentace | ✅ |
 | Interní audit – výsledky | ✅ | ✅ | Záznam (**interní**) | ✅ |
