@@ -1,6 +1,6 @@
 # ISO Dokumentace eKultura, z. s.
 
-Tento repozitář obsahuje veřejnou část dokumentace systémů řízení kvality (ISO 9001) a bezpečnosti informací (ISO/IEC 27001), které organizace **eKultura, z. s.** zavádí v rámci svých činností.
+Tento repozitář obsahuje veřejnou část dokumentace systémů řízení kvality (ISO 9001), bezpečnosti informací (ISO/IEC 27001), lidského kapitálu (ISO 30414) a společenské odpovědnosti (ISO 26000), které organizace **eKultura, z. s.** zavádí v rámci svých činností.
 
 📌 **Cílem je inspirovat a podpořit další neziskové organizace**, obce a malé projekty, které chtějí pracovat transparentně, bezpečně a systematicky.
 
@@ -14,6 +14,9 @@ Tento repozitář obsahuje veřejnou část dokumentace systémů řízení kval
 - **Seznam dokumentů** – přehled požadovaných a doporučených souborů pro ISO 9001 a 27001
 - **Prázdné formuláře a šablony** – které si můžete vyplnit sami
 
+Nově také:
+- HR metriky a přehledy pro ISO 30414 (např. fluktuace, rozvoj zaměstnanců)
+- CSR rámce podle ISO 26000 (stakeholdeři, etické principy, dopad na společnost)
 ---
 
 ## 🛡️ Co tento repozitář **neobsahuje**
@@ -33,6 +36,8 @@ Dokumenty můžete:
 - **forknout a upravit** pro vlastní potřeby,
 - **inspirovat se strukturou**,
 - nebo **přispět návrhem vylepšení** (PR vítán!).
+- využít dokumenty jako základ pro vlastní CSR, ESG nebo HR reporting
+
 
 ---
 
