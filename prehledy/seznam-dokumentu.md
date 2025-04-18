@@ -4,7 +4,7 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 
 | Název dokumentu | ISO 9001 | ISO 27001 | ISO 26000 | Typ dokumentu | Povinný |
 |------------------|--------|--------|--------|----------------|------|
-| [Etický kodex](/kodexy/eticky-kodex.md) | ✅ |  | ✅ | Politika | ✅ |
+| [Etický kodex](/kodexy/eticky-kodex-ekultura.md) | ✅ |  | ✅ | Politika | ✅ |
 | [Politika kvality](/politika/politika-kvality.md) [(EN)](politika/en/quality-policy.md) | ✅ |  |  | Politika | ✅ |
 | [Politika bezpečnosti informací](/politika/politika-bezpecnosti-informaci.md) [(EN)](/politika/en/information-security-policy.md) |  | ✅  | | Politika | ✅ |
 | Organizační struktura eKultura | ✅ | ✅  | | Popis rolí | ✅ |
