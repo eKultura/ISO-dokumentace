@@ -1,6 +1,5 @@
-# sablony/politika-template.md
-
 # [Název politiky]
+<!-- # sablony/politika-template.md -->
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
