@@ -1,6 +1,5 @@
-# sablony/smernice-template.md
-
 # [Název směrnice]
+<!-- # sablony/smernice-template.md -->
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
