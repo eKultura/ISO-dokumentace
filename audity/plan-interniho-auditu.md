@@ -1,6 +1,5 @@
-# audity/plan-interniho-auditu.md
-
 # Plán interního auditu
+<!-- # audity/plan-interniho-auditu.md -->
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
