@@ -1,4 +1,5 @@
 # Směrnice pro řízení dokumentace
+<!-- /smernice/smernice-rizeni-dokumentace.md -->
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
