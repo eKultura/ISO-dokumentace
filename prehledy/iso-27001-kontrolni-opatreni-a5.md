@@ -1,6 +1,5 @@
-# prehledy/iso27001-kontrolni-opatreni-a5.md
-
 # Vybraná kontrolní opatření ISO/IEC 27001:2022 – Příloha A, oblast A.5
+<!-- # prehledy/iso27001-kontrolni-opatreni-a5.md -->
 
 **Organizace:** eKultura, z. s.  
 **Týká se normy:** ISO/IEC 27001:**2022** – Annex A  
