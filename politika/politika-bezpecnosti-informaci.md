@@ -1,4 +1,5 @@
 # Politika bezpečnosti informací
+<!-- /politika/politika-bezpecnosti-informaci.md -->
 
 **Organizace:** eKultura, z. s.  
 **Platnost od:** 2025-04-17  
