@@ -21,4 +21,4 @@
 
 ## Shrnutí zjištění
 
-Sem vepiš hlavní závěry, doporučení a návrhy na zlepšení.
+Hlavní závěry, doporučení a návrhy na zlepšení.
