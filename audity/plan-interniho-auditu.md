@@ -36,7 +36,7 @@ Zajistit, že systém řízení kvality a bezpečnosti informací odpovídá po�
 
 ## Výstupy
 
-Výstupem bude zpráva z auditu se zjištěními, doporučeními a návrhem opatření.
+Zpráva z auditu se zjištěními, doporučeními a návrhem opatření.
 
 ---
 
