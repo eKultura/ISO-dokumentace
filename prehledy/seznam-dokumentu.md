@@ -30,12 +30,12 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 
 | Složka | Účel | ISO norma |
 |--------|------|-----------|
-| `/kodexy` | Etické kodexy pro organizaci, firmy a komunitu | ISO 26000 |
-| `/politika` | Politiky kvality a bezpečnosti informací | ISO 9001, ISO 27001 |
-| `/plany` | Plány kontinuity, obnovy a ošetření rizik | ISO 27001 |
-| `/smernice` | Směrnice pro přístupy, dokumentaci a další procesy | ISO 9001, ISO 27001 |
-| `/prehledy` | Seznamy dokumentů, aktiv, SoA a další evidence | ISO 27001 |
-| `/sablony` | Šablony k vyplnění – veřejné, připravené pro použití | ISO 9001, ISO 27001, ISO 26000 |
-| `/audity` | Plánování a záznamy interních auditů, checklisty | ISO 9001, ISO 27001 |
-| `/interni` | Neveřejné části dokumentace s odkazem na interní disk | Všechny |
+| [`/kodexy`](/kodexy) | Etické kodexy pro organizaci, firmy a komunitu | ISO 26000 |
+| [`/politika`](/politika) | Politiky kvality a bezpečnosti informací | ISO 9001, ISO 27001 |
+| [`/plany`](/plany) | Plány kontinuity, obnovy a ošetření rizik | ISO 27001 |
+| [`/smernice`](/smernice) | Směrnice pro přístupy, dokumentaci a další procesy | ISO 9001, ISO 27001 |
+| [`/prehledy`](/prehledy) | Seznamy dokumentů, aktiv, SoA a další evidence | ISO 27001 |
+| [`/sablony`](/sablony) | Šablony k vyplnění – veřejné, připravené pro použití | ISO 9001, ISO 27001, ISO 26000 |
+| [`/audity`](/audity) | Plánování a záznamy interních auditů, checklisty | ISO 9001, ISO 27001 |
+| [`/interni`](/interni) | Neveřejné části dokumentace s odkazem na interní disk | Všechny |
 
