@@ -1,6 +1,5 @@
-# interni/zaznamy-o-incidentech.md
-
 # Záznamy o incidentech (vzor)
+<!--# interni/zaznamy-o-incidentech.md-->
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
