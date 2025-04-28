@@ -9,11 +9,11 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 | [Politika bezpečnosti informací (CZ)](/politika/politika-bezpecnosti-informaci.md) [(EN)](/politika/en/information-security-policy.md) |  | ✅  | | Politika | ✅ |
 | Organizační struktura eKultura | ✅ | ✅  | | Popis rolí | ✅ |
 | Seznam projektů a služeb | ✅ |   | | Přehled činností | ➖ |
-| [Analýza rizik ISMS](📄 /interni/analyza-rizik-isms.md) |  | ✅  | | Riziková analýza (**interní**) | ✅ |
+| [Analýza rizik ISMS](/interni/analyza-rizik-isms.md) |  | ✅  | | Riziková analýza (**interní**) | ✅ |
 | Plán ošetření rizik (Risk Treatment Plan) |  | ✅  | | Plán opatření (**interní**)| ✅ |
 |[Směrnice řízení přístupů](/smernice/smernice-rizeni-pristupu.md) |  | ✅  | | Směrnice | ✅ |
 | [Záznamy o zálohách](/interni/zaznamy-o-zalohach.md) |  | ✅  | | Záznam (**interní**) | ➖ |
-| Záznamy o incidentech |  | ✅  | | Záznam (**interní**) | ✅ |
+| [Záznamy o incidentech](/interni/zaznamy-o-incidentech.md)|  | ✅  | | Záznam (**interní**) | ✅ |
 | [Plán kontinuity provozu (BCP)](/plany/plan-kontinuity-provozu-bcp.md) |  | ✅  | | Plán | ✅ |
 | [Plán obnovy po havárii (DRP)](/plany/plan-obnovy-po-havarii-drp.md) |  | ✅  | | Plán | ➖ |
 | [Interní audit – plán](/audity/plan-interniho-auditu.md) a šablona | ✅ | ✅  | | Auditní dokumentace | ✅ |
