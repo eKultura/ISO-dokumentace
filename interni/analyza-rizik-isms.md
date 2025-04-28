@@ -1,6 +1,5 @@
-# interni/analyza-rizik-isms.md
-
 # Analýza rizik ISMS (vzor)
+<!--# interni/analyza-rizik-isms.md-->
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
