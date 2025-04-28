@@ -1,6 +1,5 @@
-# interni/zaznamy-o-zalohach.md
-
 # Záznamy o zálohách (vzor)
+<!-- # interni/zaznamy-o-zalohach.md -->
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
