@@ -5,4 +5,4 @@ Zde najdete dokumenty k plánování a provádění interních auditů dle ISO 9
 ## Obsah:
 - Plán interního auditu
 - Checklisty pro audit
-- Metodika a rozsah
+
