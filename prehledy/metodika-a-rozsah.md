@@ -1,6 +1,5 @@
-# prehledy/metodika-a-rozsah.md
-
 # Metodika a rozsah systému řízení (ISMS a QMS)
+<!-- # prehledy/metodika-a-rozsah.md -->
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
