@@ -8,3 +8,4 @@ Relevantní zejména pro **ISO 27001** (např. správa aktiv, SoA), částečně
 - Seznam dokumentů a jejich příslušnost k ISO
 - Seznam aktiv
 - Prohlášení o aplikovatelnosti (SoA)
+- Metodika a rozsah
