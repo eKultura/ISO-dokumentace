@@ -1,8 +1,8 @@
 # Přehled školení členů eKultura, z. s. (anonymizovaný)
 <!-- # interni/zaznamy-skoleni.md -->
 
-**Organizace:** [eKultura, z. s.](https://ekultura.eu) 
-**Verze:** 1.0  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
+**Verze:** 1.1  
 **Norma:** ISO/IEC 27001:2022 – A.6.3, A.6.4  
 **Datum aktualizace:** 2025-04-18  
 
