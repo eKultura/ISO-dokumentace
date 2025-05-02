@@ -1,6 +1,6 @@
 # Politika kvality
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [eKultura](https://ekultura.eu)  
 **Platnost od:** 2025-04-17  
 **Verze:** 1.0  
 **ISO:** 9001
