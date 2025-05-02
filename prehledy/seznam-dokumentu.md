@@ -21,7 +21,7 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 | [Směrnice řízení dokumentace](/smernice/smernice-rizeni-dokumentace.md) | ✅ | ✅  | | Směrnice | ✅ |
 | [Zpětná vazba a vyhodnocení](/interni/zpetna-vazba-a-vyhodnoceni.md) | ✅ |   | | Záznam | ➖ |
 | [Cíle kvality a bezpečnosti](/prehledy/cile-kvality-a-bezpecnosti.md) | ✅ | ✅  | | Cíle a metriky | ✅ |
-| [Záznamy o školení](/interni/zaznamy-o-skoleni.md) | ✅ | ✅  | | Záznam (**interní**) | ✅ |
+| [Záznamy o školení](/interni/zaznamy-skoleni.md) | ✅ | ✅  | | Záznam (**interní**) | ✅ |
 | [Seznam aktiv](seznam-aktiv.md) |  | ✅  | | Přehled | ✅ |
 | [Prohlášení o aplikovatelnosti (SoA)](prohlaseni-o-aplikovatelnosti-soa.md) |  | ✅  | | Souhrn opatření (**interní**) | ✅ |
 
