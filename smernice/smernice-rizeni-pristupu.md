@@ -1,15 +1,15 @@
 # Směrnice řízení přístupu
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
+**Verze:** 1.1 | [EN version](/smernice/en/access-control-policy.md) | 
+**ISO:** 27001  
 **Platnost od:** 2025-04-17  
-**Verze:** 1.0 | [EN version](/smernice/en/access-control-policy.md) | 
-**ISO:** 27001 
 
 ---
 
 ## 1. Účel
 
-Tato směrnice stanovuje pravidla řízení přístupů k systémům, dokumentům a datům v rámci projektů eKultura, z. s., s cílem zajistit ochranu informací a minimalizovat bezpečnostní rizika.
+Tato směrnice stanovuje pravidla řízení přístupů k systémům, dokumentům a datům v rámci projektů [eKultura, z. s.](https://ekultura.eu), s cílem zajistit ochranu informací a minimalizovat bezpečnostní rizika.
 
 ---
 
