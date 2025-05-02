@@ -17,7 +17,7 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 | [Plán kontinuity provozu (BCP)](/plany/plan-kontinuity-provozu-bcp.md) |  | ✅  | | Plán | ✅ |
 | [Plán obnovy po havárii (DRP)](/plany/plan-obnovy-po-havarii-drp.md) |  | ✅  | | Plán | ➖ |
 | [Interní audit – plán](/audity/plan-interniho-auditu.md) a šablona | ✅ | ✅  | | Auditní dokumentace | ✅ |
-| [Interní audit – výsledky]//interni/interni-audit-vysledky.md) | ✅ | ✅  | | Záznam (**interní**) | ✅ |
+| [Interní audit – výsledky](/interni/interni-audit-vysledky.md) | ✅ | ✅  | | Záznam (**interní**) | ✅ |
 | [Směrnice řízení dokumentace](/smernice/smernice-rizeni-dokumentace.md) | ✅ | ✅  | | Směrnice | ✅ |
 | [Zpětná vazba a vyhodnocení](/interni/zpetna-vazba-a-vyhodnoceni.md) | ✅ |   | | Záznam | ➖ |
 | [Cíle kvality a bezpečnosti](/prehledy/cile-kvality-a-bezpecnosti.md) | ✅ | ✅  | | Cíle a metriky | ✅ |
