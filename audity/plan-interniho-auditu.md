@@ -1,8 +1,8 @@
 # Plán interního auditu
 <!-- # audity/plan-interniho-auditu.md -->
 
-**Organizace:** eKultura, z. s.  
-**Verze:** 1.0  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)    
+**Verze:** 1.1  
 **Týká se normy:** ISO 9001, ISO 27001  
 **Platnost:** 2025–2026
 
