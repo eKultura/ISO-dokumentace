@@ -2,9 +2,9 @@
 <!-- # interni/zaznamy-skoleni.md -->
 
 **Organizace:** [eKultura, z. s.](https://ekultura.eu)  
-**Verze:** 1.1  
+**Verze:** 1.2  
 **Norma:** ISO/IEC 27001:2022 – A.6.3, A.6.4  
-**Datum aktualizace:** 2025-04-18  
+**Datum aktualizace:** 2025-05-02  
 
 ---
 
