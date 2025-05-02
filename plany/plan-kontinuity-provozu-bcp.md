@@ -1,7 +1,7 @@
 # Plán kontinuity provozu (BCP)
 
-**Organizace:** eKultura, z. s.  
-**Verze:** 1.0  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
+**Verze:** 1.1  
 **Platnost od:** 2025-04-17  
 
 ---
