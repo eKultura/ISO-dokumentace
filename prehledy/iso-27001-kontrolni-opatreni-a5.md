@@ -2,8 +2,8 @@
 <!-- # prehledy/iso27001-kontrolni-opatreni-a5.md -->
 
 **Organizace:** eKultura, z. s.  
-**Týká se normy:** ISO/IEC 27001:**2022** – Annex A  
 **Verze:** 1.0  
+**Týká se normy:** ISO/IEC 27001:**2022** – Annex A  
 **Platnost od:** 2025-04-18
 
 ---
