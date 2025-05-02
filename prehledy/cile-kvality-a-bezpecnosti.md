@@ -1,10 +1,10 @@
 # Cíle kvality a bezpečnosti informací – eKultura, z. s.
 <!-- # prehledy/cile-kvality-a-bezpecnosti.md -->
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
 **Verze:** 1.0  
+**Normy:** ISO 9001:2015 – 6.2 • ISO/IEC 27001:2022 – A.5.3, A.6.1  
 **Datum aktualizace:** 2025-05-01  
-**Normy:** ISO 9001:2015 – 6.2 • ISO/IEC 27001:2022 – A.5.3, A.6.1
 
 ---
 
