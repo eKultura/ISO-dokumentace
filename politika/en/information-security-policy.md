@@ -1,6 +1,6 @@
 # Information Security Policy
 
-**Organization:** eKultura, z. s.  
+**Organization:** [eKultura, z. s.](https://ekultura.eu)    
 **Valid from:** 2025-04-17  
 **Version:** 1.0  
 
