@@ -10,7 +10,7 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 | [Organizační struktura eKultura](/prehledy/organizacni-struktura.md) | ✅ | ✅  | | Popis rolí | ✅ |
 | [Seznam projektů a služeb ](/prehledy/seznam-projektu-a-sluzeb.md)| ✅ |   | | Přehled činností | ➖ |
 | [Analýza rizik ISMS](/interni/analyza-rizik-isms.md) |  | ✅  | | Riziková analýza (**interní**) | ✅ |
-| [Plán ošetření rizik](/plany/http://plan-osetreni-rizik.md/) (Risk Treatment Plan) |  | ✅  | | Plán opatření (**interní**)| ✅ |
+| [Plán ošetření rizik](/plany/plan-osetreni-rizik.md) (Risk Treatment Plan) |  | ✅  | | Plán opatření (**interní**)| ✅ |
 |[Směrnice řízení přístupů](/smernice/smernice-rizeni-pristupu.md) |  | ✅  | | Směrnice | ✅ |
 | [Záznamy o zálohách](/interni/zaznamy-o-zalohach.md) |  | ✅  | | Záznam (**interní**) | ➖ |
 | [Záznamy o incidentech](/interni/zaznamy-o-incidentech.md)|  | ✅  | | Záznam (**interní**) | ✅ |
