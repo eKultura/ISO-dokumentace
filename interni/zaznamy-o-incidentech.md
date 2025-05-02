@@ -1,10 +1,10 @@
 # Záznamy o incidentech (vzor)
 <!--# interni/zaznamy-o-incidentech.md-->
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)    
 **Verze:** 1.0  
-**Datum:** 2025-04-18  
 **Norma:** ISO/IEC 27001:2022  
+**Datum:** 2025-04-18  
 
 ---
 
