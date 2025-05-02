@@ -1,8 +1,9 @@
 # Organizační struktura – eKultura, z. s.
 <!-- # prehledy/organizacni-struktura.md -->
 
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
 **Verze:** 1.0  
-**Datum aktualizace:** 2025-05-02 
+**Datum aktualizace:** 2025-05-02  
 **Normy:** ISO 9001:2015, ISO/IEC 27001:2022  
 
 ---
