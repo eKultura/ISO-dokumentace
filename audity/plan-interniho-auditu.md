@@ -3,7 +3,7 @@
 
 **Organizace:** [eKultura, z. s.](https://ekultura.eu)    
 **Verze:** 1.1  
-**Týká se normy:** ISO 9001, ISO 27001  
+**Norma:** ISO 9001, ISO 27001  
 **Platnost:** 2025–2026
 
 ---
