@@ -3,7 +3,7 @@
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
-**Norma:** ISO/IEC 27001:2022 – kapitola 6, příloha A
+**Norma:** ISO/IEC 27001:2022 – kapitola 6, příloha A  
 **Datum vytvoření:** 2025-04-18  
 
 ---
