@@ -2,8 +2,8 @@
 <!-- # prehledy/iso27001-kontrolni-opatreni-a6.md -->
 
 **Oblast:** Lidé – Lidské aspekty bezpečnosti  
+**Verze:** 1.1  
 **Norma:** ISO/IEC 27001:2022 – Annex A  
-**Verze:** 1.0  
 **Platnost od:** 2025-04-18
 
 ---
