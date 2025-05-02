@@ -1,10 +1,10 @@
 # Výsledky interního auditu (šablona)
 <!-- # interni/interni-audit-vysledky.md -->
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
 **Verze:** 1.0  
+**Auditovaný rozsah:** ISMS (ISO/IEC 27001), QMS (ISO 9001)  
 **Datum auditu:** 2025-05-02
-**Auditovaný rozsah:** ISMS (ISO/IEC 27001), QMS (ISO 9001)
 
 ---
 
