@@ -1,10 +1,10 @@
 # Politika bezpečnosti informací
 <!-- /politika/politika-bezpecnosti-informaci.md -->
   
-**Organizace:** [eKultura, z. s.](https://ekultura.eu)    
-**Platnost od:** 2025-04-17  
-**Verze:** 1.0 | [EN version](/politika/information-security-policy.md)
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)   
+**Verze:** 1.0 | [EN version](/politika/information-security-policy.md)  
 **ISO:** 27001 
+**Platnost od:** 2025-04-17  
 
 ---
 
