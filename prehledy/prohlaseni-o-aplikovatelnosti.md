@@ -1,6 +1,6 @@
 # Prohlášení o aplikovatelnosti (Statement of Applicability – SoA)
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
 **Verze:** 1.0  
 **Platnost od:** 2025-04-17  
 
