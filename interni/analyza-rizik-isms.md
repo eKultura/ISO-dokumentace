@@ -1,10 +1,10 @@
 # Analýza rizik ISMS (vzor)
 <!--# interni/analyza-rizik-isms.md-->
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
 **Verze:** 1.0  
-**Datum:** 2025-04-18  
 **Norma:** ISO/IEC 27001:2022  
+**Datum:** 2025-04-18  
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 1. Účel analýzy rizik
 
-Cílem analýzy rizik je identifikovat, vyhodnotit a řídit hrozby, které mohou ovlivnit důvěrnost, integritu a dostupnost informací a systémů organizace eKultura, z. s.
+Cílem analýzy rizik je identifikovat, vyhodnotit a řídit hrozby, které mohou ovlivnit důvěrnost, integritu a dostupnost informací a systémů [organizace eKultura, z. s.](https://ekultura.eu)
 
 ---
 
