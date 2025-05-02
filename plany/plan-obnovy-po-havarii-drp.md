@@ -3,7 +3,7 @@
 
 **Organizace:** [eKultura, z. s.](https://ekultura.eu)    
 **Verze:** 1.1  
-**Týká se normy:** ISO 27001  
+**Norma:** ISO 27001  
 **Platnost od:** 2025-04-18  
 
 ---
