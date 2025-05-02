@@ -23,7 +23,7 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 | [Cíle kvality a bezpečnosti](/prehledy/cile-kvality-a-bezpecnosti.md) | ✅ | ✅  | | Cíle a metriky | ✅ |
 | [Záznamy o školení](/interni/zaznamy-skoleni.md) | ✅ | ✅  | | Záznam (**interní**) | ✅ |
 | [Seznam aktiv](seznam-aktiv.md) |  | ✅  | | Přehled | ✅ |
-| [Prohlášení o aplikovatelnosti (SoA)](prohlaseni-o-aplikovatelnosti-soa.md) |  | ✅  | | Souhrn opatření (**interní**) | ✅ |
+| [Prohlášení o aplikovatelnosti (SoA)](prohlaseni-o-aplikovatelnosti.md) |  | ✅  | | Souhrn opatření (**interní**) | ✅ |
 
 
 ## 📂 Struktura složek v repozitáři
