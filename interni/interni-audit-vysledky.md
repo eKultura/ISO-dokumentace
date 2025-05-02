@@ -3,7 +3,7 @@
 
 **Organizace:** eKultura, z. s.  
 **Verze:** 1.0  
-**Datum auditu:** 2025-04-10  
+**Datum auditu:** 2025-05-02
 **Auditovaný rozsah:** ISMS (ISO/IEC 27001), QMS (ISO 9001)
 
 ---
@@ -49,4 +49,4 @@ Prověřit účinnost implementace opatření systému řízení kvality a bezpe
 
 *Auditor:* Interní tým (dokumentace, předseda, admin)  
 *Zapsal:* M. K.  
-*Datum zprávy:* 2025-04-11
+*Datum zprávy:* 2025-05-02
