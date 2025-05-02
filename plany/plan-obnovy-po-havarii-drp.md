@@ -2,8 +2,8 @@
 <!-- # plany/plan-obnovy-po-havarii-drp.md -->
 
 **Organizace:** [eKultura, z. s.](https://ekultura.eu)    
-**Verze:** 1.0  
-**Týká se normy:** ISO 27001
+**Verze:** 1.1  
+**Týká se normy:** ISO 27001  
 **Platnost od:** 2025-04-18  
 
 ---
