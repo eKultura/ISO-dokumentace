@@ -9,7 +9,7 @@
 
 ## 1. Účel dokumentu
 
-Cílem tohoto přehledu je stručně popsat klíčové projekty a služby spolku eKultura, z. s., na které se vztahuje systém řízení kvality (QMS) a bezpečnosti informací (ISMS).
+Cílem tohoto přehledu je stručně popsat klíčové projekty a služby spolku [eKultura, z. s.](https://ekultura.eu), na které se vztahuje systém řízení kvality (QMS) a bezpečnosti informací (ISMS).
 
 ---
 
