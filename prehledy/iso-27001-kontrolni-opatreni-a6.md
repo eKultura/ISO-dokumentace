@@ -1,7 +1,7 @@
 # Kontrolní opatření ISO/IEC 27001:2022 – Oblast A.6
 <!-- # prehledy/iso27001-kontrolni-opatreni-a6.md -->
 
-**Oblast:** Lidé – Lidské aspekty bezpečnosti  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu) 
 **Verze:** 1.1  
 **Norma:** ISO/IEC 27001:2022 – Annex A  
 **Platnost od:** 2025-04-18
