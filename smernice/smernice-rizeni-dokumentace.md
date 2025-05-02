@@ -1,7 +1,7 @@
 # Směrnice pro řízení dokumentace
 <!-- /smernice/smernice-rizeni-dokumentace.md -->
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
 **Verze:** 1.0  
 **Platnost od:** 2025-04-17  
 
