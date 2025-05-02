@@ -1,8 +1,8 @@
 # Plán ošetření rizik (Risk Treatment Plan)
 <!-- # plany/plan-osetreni-rizik.md -->
 
-**Organizace:** eKultura, z. s.  
-**Verze:** 1.0  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
+**Verze:** 1.1  
 **Norma:** ISO/IEC 27001:2022 – kapitola 6, příloha A  
 **Datum vytvoření:** 2025-04-18  
 
