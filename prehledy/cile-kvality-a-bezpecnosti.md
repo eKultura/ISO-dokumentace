@@ -3,7 +3,7 @@
 
 **Organizace:** [eKultura, z. s.](https://ekultura.eu)  
 **Verze:** 1.1  
-**Normy:** ISO 9001:2015 – 6.2 • ISO/IEC 27001:2022 – A.5.3, A.6.1  
+**Norma:** ISO 9001:2015 – 6.2 • ISO/IEC 27001:2022 – A.5.3, A.6.1  
 **Datum aktualizace:** 2025-05-01  
 
 ---
