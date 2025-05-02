@@ -3,7 +3,7 @@
 
 **Organizace:** [eKultura, z. s.](https://ekultura.eu)  
 **Verze:** 1.1  
-**Normy:** ISO 9001:2015 – 9.1, 9.3 • ISO/IEC 27001:2022 – A.5.28  
+**Norma:** ISO 9001:2015 – 9.1, 9.3 • ISO/IEC 27001:2022 – A.5.28  
 **Datum aktualizace:** 2025-05-01  
 
 ---
