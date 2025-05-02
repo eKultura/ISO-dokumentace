@@ -9,7 +9,7 @@
 
 ## 1. Účel
 
-Stanovit a pravidelně vyhodnocovat konkrétní a měřitelné cíle v oblasti kvality projektů a informační bezpečnosti, které odpovídají směřování a hodnotám eKultura, z. s.
+Stanovit a pravidelně vyhodnocovat konkrétní a měřitelné cíle v oblasti kvality projektů a informační bezpečnosti, které odpovídají směřování a hodnotám [eKultura, z. s.](https://ekultura.eu)
 
 ---
 
