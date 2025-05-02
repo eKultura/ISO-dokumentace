@@ -7,21 +7,21 @@ Tento seznam obsahuje základní dokumenty doporučené nebo požadované pro im
 | [Etický kodex](/kodexy/eticky-kodex-ekultura.md) | ✅ |  | ✅ | Politika | ✅ |
 | [Politika kvality (CZ)](/politika/politika-kvality.md) [(EN)](politika/en/quality-policy.md) | ✅ |  |  | Politika | ✅ |
 | [Politika bezpečnosti informací (CZ)](/politika/politika-bezpecnosti-informaci.md) [(EN)](/politika/en/information-security-policy.md) |  | ✅  | | Politika | ✅ |
-| Organizační struktura eKultura | ✅ | ✅  | | Popis rolí | ✅ |
-| Seznam projektů a služeb | ✅ |   | | Přehled činností | ➖ |
+| [Organizační struktura eKultura](/prehledy/organizacni-struktura.md) | ✅ | ✅  | | Popis rolí | ✅ |
+| [Seznam projektů a služeb ](/prehledy/seznam-projektu-a-sluzeb.md)| ✅ |   | | Přehled činností | ➖ |
 | [Analýza rizik ISMS](/interni/analyza-rizik-isms.md) |  | ✅  | | Riziková analýza (**interní**) | ✅ |
-| Plán ošetření rizik (Risk Treatment Plan) |  | ✅  | | Plán opatření (**interní**)| ✅ |
+| [Plán ošetření rizik](/plany/http://plan-osetreni-rizik.md/) (Risk Treatment Plan) |  | ✅  | | Plán opatření (**interní**)| ✅ |
 |[Směrnice řízení přístupů](/smernice/smernice-rizeni-pristupu.md) |  | ✅  | | Směrnice | ✅ |
 | [Záznamy o zálohách](/interni/zaznamy-o-zalohach.md) |  | ✅  | | Záznam (**interní**) | ➖ |
 | [Záznamy o incidentech](/interni/zaznamy-o-incidentech.md)|  | ✅  | | Záznam (**interní**) | ✅ |
 | [Plán kontinuity provozu (BCP)](/plany/plan-kontinuity-provozu-bcp.md) |  | ✅  | | Plán | ✅ |
 | [Plán obnovy po havárii (DRP)](/plany/plan-obnovy-po-havarii-drp.md) |  | ✅  | | Plán | ➖ |
 | [Interní audit – plán](/audity/plan-interniho-auditu.md) a šablona | ✅ | ✅  | | Auditní dokumentace | ✅ |
-| Interní audit – výsledky | ✅ | ✅  | | Záznam (**interní**) | ✅ |
-| [Směrnice řízení dokumentace](smernice/smernice-rizeni-dokumentace.md) | ✅ | ✅  | | Směrnice | ✅ |
-| Zpětná vazba a vyhodnocení | ✅ |   | | Záznam | ➖ |
-| Cíle kvality a bezpečnosti | ✅ | ✅  | | Cíle a metriky | ✅ |
-| Záznamy o školení | ✅ | ✅  | | Záznam (**interní**) | ✅ |
+| [Interní audit – výsledky]//interni/interni-audit-vysledky.md) | ✅ | ✅  | | Záznam (**interní**) | ✅ |
+| [Směrnice řízení dokumentace](/smernice/smernice-rizeni-dokumentace.md) | ✅ | ✅  | | Směrnice | ✅ |
+| [Zpětná vazba a vyhodnocení](/interni/zpetna-vazba-a-vyhodnoceni.md) | ✅ |   | | Záznam | ➖ |
+| [Cíle kvality a bezpečnosti](/prehledy/cile-kvality-a-bezpecnosti.md) | ✅ | ✅  | | Cíle a metriky | ✅ |
+| [Záznamy o školení](/interni/zaznamy-o-skoleni.md) | ✅ | ✅  | | Záznam (**interní**) | ✅ |
 | [Seznam aktiv](seznam-aktiv.md) |  | ✅  | | Přehled | ✅ |
 | [Prohlášení o aplikovatelnosti (SoA)](prohlaseni-o-aplikovatelnosti-soa.md) |  | ✅  | | Souhrn opatření (**interní**) | ✅ |
 
