@@ -3,8 +3,8 @@
 
 **Organizace:** eKultura, z. s.  
 **Platnost od:** 2025-04-18  
-**Verze:** 1.0
-**ISO:** 26000
+**Verze:** 1.1  
+**ISO:** 26000  
 
 ---
 
