@@ -2,7 +2,7 @@
 
 **Organizace:** [eKultura, z. s.](https://ekultura.eu)  
 **Verze:** 1.1 | [EN version](/smernice/en/access-control-policy.md)  
-**ISO:** 27001  
+**Norma:** ISO 27001  
 **Platnost od:** 2025-04-17  
 
 ---
