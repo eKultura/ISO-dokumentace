@@ -1,8 +1,8 @@
 # Metodika a rozsah systému řízení (ISMS a QMS)
 <!-- # prehledy/metodika-a-rozsah.md -->
 
-**Organizace:** eKultura, z. s.  
-**Verze:** 1.0  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)  
+**Verze:** 1.1  
 **Datum:** 2025-04-29  
 **Normy:** ISO/IEC 27001:2022, ISO 9001:2015  
 
