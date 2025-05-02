@@ -3,7 +3,7 @@
   
 **Organizace:** [eKultura, z. s.](https://ekultura.eu)   
 **Verze:** 1.0 | [EN version](/politika/information-security-policy.md)  
-**ISO:** 27001 
+**ISO:** 27001  
 **Platnost od:** 2025-04-17  
 
 ---
