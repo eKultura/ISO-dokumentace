@@ -1,7 +1,7 @@
 # Etický kodex eKultura, z. s.
 <!--kodexy/eticky-kodex-ekultura.md-->
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [**eKultura, z. s.**](https://ekultura.eu)  
 **Platnost od:** 2025-04-18  
 **Verze:** 1.1  
 **ISO:** 26000  
