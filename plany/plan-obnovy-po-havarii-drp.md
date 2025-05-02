@@ -1,10 +1,10 @@
 # Plán obnovy po havárii (Disaster Recovery Plan – DRP)
 <!-- # plany/plan-obnovy-po-havarii-drp.md -->
 
-**Organizace:** eKultura, z. s.  
+**Organizace:** [eKultura, z. s.](https://ekultura.eu)    
 **Verze:** 1.0  
-**Platnost od:** 2025-04-18  
 **Týká se normy:** ISO 27001
+**Platnost od:** 2025-04-18  
 
 ---
 
